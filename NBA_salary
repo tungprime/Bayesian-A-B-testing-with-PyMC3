@@ -1,0 +1,529 @@
+RK,Name,Team,Salary,Position
+1,"Stephen Curry, PG",Golden State Warriors,40.231758,PG
+2,"Chris Paul, PG",Oklahoma City Thunder,38.506482,PG
+3,"Russell Westbrook, PG",Houston Rockets,38.506482,PG
+4,"John Wall, PG",Washington Wizards,38.199,PG
+5,"Kevin Durant, SF",Brooklyn Nets,38.199,SF
+6,"James Harden, SG",Houston Rockets,38.199,SG
+7,"LeBron James, SF",Los Angeles Lakers,37.436858,SF
+8,"Kyle Lowry, PG",Toronto Raptors,34.996296,PG
+9,"Blake Griffin, PF",Detroit Pistons,34.449964,PF
+10,"Tobias Harris, SF",Philadelphia 76ers,32.742,SF
+11,"Jimmy Butler, SF",Miami Heat,32.742,SF
+12,"Kawhi Leonard, SF",LA Clippers,32.742,SF
+13,"Klay Thompson, SG",Golden State Warriors,32.742,SG
+14,"Kemba Walker, PG",Boston Celtics,32.742,PG
+15,"Gordon Hayward, F",Boston Celtics,32.70069,F
+16,"Mike Conley, PG",Utah Jazz,32.511624,PG
+17,"Kyrie Irving, PG",Brooklyn Nets,31.742,PG
+18,"Khris Middleton, SF",Milwaukee Bucks,30.603448,SF
+19,"Paul George, SG",LA Clippers,30.5607,SG
+20,"Paul Millsap, PF",Denver Nuggets,30.35,PF
+21,"Damian Lillard, PG",Portland Trail Blazers,29.802321,PG
+22,"Kevin Love, PF",Cleveland Cavaliers,28.94283,PF
+23,"Al Horford, PF",Philadelphia 76ers,28.0,PF
+24,"Nikola Vucevic, C",Orlando Magic,28.0,C
+25,"DeMar DeRozan, SF",San Antonio Spurs,27.739975,SF
+26,"CJ McCollum, SG",Portland Trail Blazers,27.556959,SG
+27,"Joel Embiid, C",Philadelphia 76ers,27.50463,C
+28,"Andrew Wiggins, SF",Minnesota Timberwolves,27.50463,SF
+29,"Nikola Jokic, C",Denver Nuggets,27.50463,C
+30,"Devin Booker, SG",Phoenix Suns,27.285,SG
+31,"D'Angelo Russell, SG",Minnesota Timberwolves,27.285,SG
+32,"Karl-Anthony Towns, C",Minnesota Timberwolves,27.285,C
+33,"Kristaps Porzingis, PF",Dallas Mavericks,27.285,PF
+34,"Otto Porter Jr., SF",Chicago Bulls,27.250575,SF
+35,"Bradley Beal, SG",Washington Wizards,27.093019,SG
+36,"Andre Drummond, C",Detroit Pistons,27.093019,C
+37,"Anthony Davis, PF",Los Angeles Lakers,27.093018,PF
+38,"Hassan Whiteside, C",Portland Trail Blazers,27.093017,C
+39,"Jrue Holiday, SG",New Orleans Pelicans,26.231111,SG
+40,"LaMarcus Aldridge, PF",San Antonio Spurs,26.0,PF
+41,"Steven Adams, C",Oklahoma City Thunder,25.842697,C
+42,"Giannis Antetokounmpo, PF",Milwaukee Bucks,25.842697,PF
+43,"Marc Gasol, C",Toronto Raptors,25.5957,C
+44,"Nicolas Batum, SG",Charlotte Hornets,25.565217,SG
+45,"Chandler Parsons, SF",Atlanta Hawks,25.102511,SF
+46,"Harrison Barnes, SF",Sacramento Kings,24.147727,SF
+47,"Serge Ibaka, C",Toronto Raptors,23.271604,C
+48,"Rudy Gobert, C",Utah Jazz,23.241573,C
+49,"Danilo Gallinari, PF",Oklahoma City Thunder,22.615559,PF
+50,"Victor Oladipo, SG",Indiana Pacers,21.0,SG
+51,"Tim Hardaway Jr., SG",Dallas Mavericks,20.025127,SG
+52,"Malcolm Brogdon, PG",Indiana Pacers,20.0,PG
+53,"Terry Rozier, PG",Charlotte Hornets,19.894737,PG
+54,"Aaron Gordon, PF",Orlando Magic,19.863636,PF
+55,"Zach LaVine, PG",Chicago Bulls,19.5,PG
+56,"Kent Bazemore, SG",Sacramento Kings,19.269662,SG
+57,"Goran Dragic, PG",Miami Heat,19.2179,PG
+58,"Jeff Teague, PG",Minnesota Timberwolves,19.0,PG
+59,"Evan Turner, SG",Atlanta Hawks,18.606556,SG
+60,"Draymond Green, PF",Golden State Warriors,18.53913,PF
+61,"Tristan Thompson, C",Cleveland Cavaliers,18.53913,C
+62,"Allen Crabbe, G",Minnesota Timberwolves,18.5,G
+63,"Julius Randle, PF",New York Knicks,18.0,PF
+64,"Myles Turner, C",Indiana Pacers,18.0,C
+65,"Gary Harris, SG",Denver Nuggets,17.839286,SG
+66,"Derrick Favors, C",New Orleans Pelicans,17.65,C
+67,"Andre Iguodala, SG",Miami Heat,17.185185,SG
+68,"Evan Fournier, SG",Orlando Magic,17.15,SG
+69,"Bismack Biyombo, C",Charlotte Hornets,17.0,C
+70,"Bojan Bogdanovic, SF",Utah Jazz,17.0,SF
+71,"Timofey Mozgov, C",Orlando Magic,16.72,C
+72,"Gorgui Dieng, C",Memphis Grizzlies,16.229213,C
+73,"Ricky Rubio, PG",Phoenix Suns,16.2,PG
+74,"Jonas Valanciunas, C",Memphis Grizzlies,16.0,C
+75,"JR Smith, SG",Los Angeles Lakers,15.68,SG
+76,"Brandon Knight, PG",Detroit Pistons,15.64375,PG
+77,"Kelly Oubre Jr., SF",Phoenix Suns,15.625,SF
+78,"Eric Bledsoe, PG",Milwaukee Bucks,15.625,PG
+79,"Dennis Schroder, PG",Oklahoma City Thunder,15.5,PG
+80,"Ian Mahinmi, C",Washington Wizards,15.450051,C
+81,"James Johnson, PF",Minnesota Timberwolves,15.3494,PF
+82,"Bobby Portis, PF",New York Knicks,15.0,PF
+83,"Marcus Morris Sr., SF",New York Knicks,15.0,SF
+84,"Clint Capela, C",Houston Rockets,14.896552,C
+85,"Luke Babbitt, F",Miami Heat,14.6517,F
+86,"Danny Green, SG",Los Angeles Lakers,14.634146,SG
+87,"Rudy Gay, SF",San Antonio Spurs,14.5,SF
+88,"Cody Zeller, C",Charlotte Hornets,14.47191,C
+89,"Eric Gordon, SG",Houston Rockets,14.05773,SG
+90,"Mason Plumlee, PF",Denver Nuggets,14.041096,PF
+91,"Marcin Gortat, C",LA Clippers,13.565218,C
+92,"JJ Redick, SG",New Orleans Pelicans,13.4863,SG
+93,"Jordan Clarkson, PG",Utah Jazz,13.4375,PG
+94,"Dewayne Dedmon, C",Sacramento Kings,13.333333,C
+95,"Jusuf Nurkic, C",Portland Trail Blazers,13.125,C
+96,"Justise Winslow, SF",Miami Heat,13.0,SF
+97,"Thaddeus Young, PF",Chicago Bulls,12.9,PF
+98,"Will Barton, SF",Denver Nuggets,12.776786,SF
+99,"Courtney Lee, SG",Dallas Mavericks,12.75967,SG
+100,"Solomon Hill, SF",Memphis Grizzlies,12.758781,SF
+101,"Larry Nance Jr., PF",Cleveland Cavaliers,12.727273,PF
+102,"Kelly Olynyk, PF",Miami Heat,12.667885,PF
+103,"Marcus Smart, PG",Boston Celtics,12.553571,PG
+104,"Miles Plumlee, C",null Unknown,12.5,C
+105,"Terrence Ross, SG",Orlando Magic,12.5,SG
+106,"Nikola Mirotic, F",Milwaukee Bucks,12.5,F
+107,"Patty Mills, PG",San Antonio Spurs,12.428571,PG
+108,"Tyreke Evans, G",Indiana Pacers,12.4,G
+109,"Patrick Beverley, PG",LA Clippers,12.34568,PG
+110,"Trevor Ariza, SF",Sacramento Kings,12.195122,SF
+111,"Brook Lopez, C",Milwaukee Bucks,12.093023,C
+112,"Cory Joseph, PG",Sacramento Kings,12.0,PG
+113,"Joe Ingles, SG",Utah Jazz,11.954546,SG
+114,"Zach Randolph, F",Dallas Mavericks,11.692308,F
+115,"Tony Snell, SF",Detroit Pistons,11.392857,SF
+116,"Robert Covington, PF",Minnesota Timberwolves,11.301219,PF
+117,"Meyers Leonard, C",Miami Heat,11.286516,C
+118,"Omer Asik, C",Chicago Bulls,11.286516,C
+119,"Maurice Harkless, SF",New York Knicks,11.011234,SF
+120,"T.J. Warren, SF",Indiana Pacers,10.81,SF
+121,"Andre Roberson, SG",Oklahoma City Thunder,10.74074,SG
+122,"Spencer Dinwiddie, PG",Brooklyn Nets,10.6056,PG
+123,"Jeremy Lamb, SG",Indiana Pacers,10.5,SG
+124,"Dwight Powell, C",Dallas Mavericks,10.259375,C
+125,"Norman Powell, SG",Toronto Raptors,10.116576,SG
+126,"Josh Richardson, SG",Philadelphia 76ers,10.116576,SG
+127,"Darren Collison, G",Indiana Pacers,10.0,G
+128,"Tomas Satoransky, SG",Chicago Bulls,10.0,SG
+129,"DeAndre Jordan, C",Brooklyn Nets,9.881598,C
+130,"Zion Williamson, SF",New Orleans Pelicans,9.75744,SF
+131,"Markelle Fultz, PG",Orlando Magic,9.7452,PG
+132,"John Henson, PF",Detroit Pistons,9.732396,PF
+133,"Matthew Dellavedova, PG",Cleveland Cavaliers,9.6075,PG
+134,"Dante Exum, PG",Utah Jazz,9.6,PG
+135,"Deandre Ayton, C",Phoenix Suns,9.56292,C
+136,"Delon Wright, PG",Dallas Mavericks,9.473684,PG
+137,"Fred VanVleet, SG",Toronto Raptors,9.346153,SG
+138,"Jerami Grant, PF",Denver Nuggets,9.346153,PF
+139,"Tyus Jones, PG",Memphis Grizzlies,9.258,PG
+140,"Al-Farouq Aminu, PF",Orlando Magic,9.258,PF
+141,"George Hill, PG",Milwaukee Bucks,9.133907,PG
+142,"Kyle Anderson, SF",Memphis Grizzlies,9.07305,SF
+143,"Taj Gibson, C",New York Knicks,9.0,C
+144,"Ja Morant, PG",Memphis Grizzlies,8.73024,PG
+145,"Lonzo Ball, PG",New Orleans Pelicans,8.71932,PG
+146,"E'Twaun Moore, SG",New Orleans Pelicans,8.664928,SG
+147,"Marvin Bagley III, PF",Sacramento Kings,8.55612,PF
+148,"Bogdan Bogdanovic, SG",Sacramento Kings,8.529386,SG
+149,"P.J. Tucker, PF",Houston Rockets,8.349039,PF
+150,"C.J. Miles, SG",Washington Wizards,8.333333,SG
+151,"Cristiano Felicio, PF",Chicago Bulls,8.1565,PF
+152,"Ben Simmons, PG",Philadelphia 76ers,8.11393,PG
+153,"Kentavious Caldwell-Pope, SG",Los Angeles Lakers,8.089282,SG
+154,"Thomas Bryant, C",Washington Wizards,8.0,C
+155,"Elfrid Payton, PG",New York Knicks,8.0,PG
+156,"Wayne Ellington, SG",New York Knicks,8.0,SG
+157,"Lou Williams, SG",LA Clippers,8.0,SG
+158,"Maxi Kleber, PF",Dallas Mavericks,8.0,PF
+159,"RJ Barrett, SG",New York Knicks,7.83996,SG
+160,"Jayson Tatum, PF",Boston Celtics,7.83,PF
+161,"Jae Crowder, SF",Memphis Grizzlies,7.815533,SF
+162,"Luka Doncic, SG",Dallas Mavericks,7.68336,SG
+163,"Joe Harris, SF",Brooklyn Nets,7.666667,SF
+164,"Darrell Arthur, F",Phoenix Suns,7.464912,F
+165,"Seth Curry, SG",Dallas Mavericks,7.46138,SG
+166,"Doug McDermott, SF",Indiana Pacers,7.333333,SF
+167,"Langston Galloway, SG",Detroit Pistons,7.333333,SG
+168,"Derrick Rose, PG",Detroit Pistons,7.317073,PG
+169,"Brandon Ingram, SF",New Orleans Pelicans,7.265485,SF
+170,"D.J. Augustin, PG",Orlando Magic,7.25,PG
+171,"Lance Thomas, SF",Brooklyn Nets,7.11965,SF
+172,"De'Andre Hunter, SF",Atlanta Hawks,7.06836,SF
+173,"Josh Jackson, SG",Memphis Grizzlies,7.05948,SG
+174,"Davis Bertans, SF",Washington Wizards,7.0,SF
+175,"Ersan Ilyasova, PF",Milwaukee Bucks,7.0,PF
+176,"Darius Miller, SF",New Orleans Pelicans,7.0,SF
+177,"Jaren Jackson Jr., PF",Memphis Grizzlies,6.92748,PF
+178,"Nemanja Bjelica, PF",Sacramento Kings,6.825,PF
+179,"Jaylen Brown, SG",Boston Celtics,6.534829,SG
+180,"Jabari Parker, PF",Sacramento Kings,6.5,PF
+181,"Ivica Zubac, C",LA Clippers,6.481482,C
+182,"Darius Garland, PG",Cleveland Cavaliers,6.40092,PG
+183,"De'Aaron Fox, PG",Sacramento Kings,6.39276,PG
+184,"Milos Teodosic, G",LA Clippers,6.3,G
+185,"Trae Young, PG",Atlanta Hawks,6.273,PG
+186,"Wesley Johnson, F",Washington Wizards,6.13452,F
+187,"Ish Smith, PG",Washington Wizards,6.0,PG
+188,"Montrezl Harrell, PF",LA Clippers,6.0,PF
+189,"Marco Belinelli, SG",San Antonio Spurs,5.846154,SG
+190,"Jarrett Culver, SG",Minnesota Timberwolves,5.81364,SG
+191,"Jonathan Isaac, PF",Orlando Magic,5.80644,PF
+192,"Rodney Hood, SF",Portland Trail Blazers,5.718,SF
+193,"Jonathon Simmons, G",Washington Wizards,5.7,G
+194,"Mo Bamba, C",Orlando Magic,5.6976,C
+195,"Trey Lyles, C",San Antonio Spurs,5.5,C
+196,"Alex Abrines, G",Oklahoma City Thunder,5.455236,G
+197,"Aron Baynes, C",Phoenix Suns,5.45328,C
+198,"Jason Smith, F",New Orleans Pelicans,5.45,F
+199,"Kris Dunn, PG",Chicago Bulls,5.348007,PG
+200,"Coby White, PG",Chicago Bulls,5.30712,PG
+201,"Lauri Markkanen, PF",Chicago Bulls,5.3004,PF
+202,"Alexis Ajinca, C",LA Clippers,5.285394,C
+203,"Wendell Carter Jr., C",Chicago Bulls,5.2014,C
+204,"Dirk Nowitzki, F",Dallas Mavericks,5.0,F
+205,"Daniel Theis, C",Boston Celtics,5.0,C
+206,"Kyle Singler, F",Oklahoma City Thunder,4.996,F
+207,"Jaxson Hayes, C",New Orleans Pelicans,4.86204,C
+208,"Buddy Hield, SG",Sacramento Kings,4.861208,SG
+209,"Frank Ntilikina, PG",New York Knicks,4.8558,PG
+210,"Rodney McGruder, SG",LA Clippers,4.807693,SG
+211,"Ed Davis, C",Utah Jazz,4.767,C
+212,"Richaun Holmes, C",Sacramento Kings,4.767,C
+213,"Frank Kaminsky, C",Phoenix Suns,4.767,C
+214,"Mike Scott, PF",Philadelphia 76ers,4.767,PF
+215,"Garrett Temple, SG",Brooklyn Nets,4.767,SG
+216,"Robin Lopez, C",Milwaukee Bucks,4.767,C
+217,"Avery Bradley, PG",Los Angeles Lakers,4.767,PG
+218,"JaMychal Green, PF",LA Clippers,4.767,PF
+219,"Justin Holiday, SF",Indiana Pacers,4.767,SF
+220,"Enes Kanter, C",Boston Celtics,4.767,C
+221,"Collin Sexton, PG",Cleveland Cavaliers,4.76496,PG
+222,"Rui Hachimura, PF",Washington Wizards,4.46916,PF
+223,"Kevon Looney, PF",Golden State Warriors,4.464226,PF
+224,"Dennis Smith Jr., PG",New York Knicks,4.46364,PG
+225,"Jamal Murray, PG",Denver Nuggets,4.444746,PG
+226,"Kevin Knox II, SF",New York Knicks,4.38012,SF
+227,"Luc Mbah a Moute, PF",Houston Rockets,4.3205,PF
+228,"Cam Reddish, SG",Atlanta Hawks,4.24572,SG
+229,"Zach Collins, PF",Portland Trail Blazers,4.2402,PF
+230,"Mikal Bridges, SF",Phoenix Suns,4.161,SF
+231,"Alex Len, C",Sacramento Kings,4.16,C
+232,"Nicolo Melli, PF",New Orleans Pelicans,4.102564,PF
+233,"Cameron Johnson, SF",Phoenix Suns,4.03344,SF
+234,"Malik Monk, SG",Charlotte Hornets,4.0284,SG
+235,"Patrick McCaw, SF",Toronto Raptors,4.0,SF
+236,"Reggie Bullock, SF",New York Knicks,4.0,SF
+237,"JaVale McGee, C",Los Angeles Lakers,4.0,C
+238,"Dorian Finney-Smith, SF",Dallas Mavericks,4.0,SF
+239,"Shai Gilgeous-Alexander, SG",Oklahoma City Thunder,3.95292,SG
+240,"PJ Washington, PF",Charlotte Hornets,3.83184,PF
+241,"Luke Kennard, SG",Detroit Pistons,3.82716,SG
+242,"Miles Bridges, SF",Charlotte Hornets,3.7554,SF
+243,"Jakob Poeltl, C",San Antonio Spurs,3.754886,C
+244,"Tyler Herro, SG",Miami Heat,3.6402,SG
+245,"Donovan Mitchell, SG",Utah Jazz,3.63576,SG
+246,"Stanley Johnson, SF",Toronto Raptors,3.623,SF
+247,"Jake Layman, SF",Minnesota Timberwolves,3.581986,SF
+248,"Thon Maker, C",Detroit Pistons,3.569643,C
+249,"Jerome Robinson, SG",Washington Wizards,3.56772,SG
+250,"Allonzo Trier, G",New York Knicks,3.551,G
+251,"Danuel House Jr., SF",Houston Rockets,3.54,SF
+252,"Domantas Sabonis, PF",Indiana Pacers,3.529555,PF
+253,"Michael Beasley, F",Brooklyn Nets,3.5,F
+254,"DeMarcus Cousins, C",Los Angeles Lakers,3.5,C
+255,"T.J. McConnell, PG",Indiana Pacers,3.5,PG
+256,"Boban Marjanovic, C",Dallas Mavericks,3.5,C
+257,"Dario Saric, PF",Phoenix Suns,3.481986,PF
+258,"Taurean Prince, PF",Brooklyn Nets,3.481986,PF
+259,"Romeo Langford, SG",Boston Celtics,3.4584,SG
+260,"Bam Adebayo, PF",Miami Heat,3.45408,PF
+261,"Michael Porter Jr., PF",Denver Nuggets,3.3894,PF
+262,"Denzel Valentine, SG",Chicago Bulls,3.377569,SG
+263,"Juan Hernangomez, PF",Minnesota Timberwolves,3.32103,PF
+264,"Sekou Doumbouya, SF",Detroit Pistons,3.28512,SF
+265,"Justin Jackson, SF",Dallas Mavericks,3.28092,SF
+266,"Troy Brown Jr., SF",Washington Wizards,3.21948,SF
+267,"Yogi Ferrell, PG",Sacramento Kings,3.15,PG
+268,"Zhaire Smith, SG",Philadelphia 76ers,3.0588,SG
+269,"Khem Birch, PF",Orlando Magic,3.0,PF
+270,"Quinn Cook, PG",Los Angeles Lakers,3.0,PG
+271,"Ryan Arcidiacono, PG",Chicago Bulls,3.0,PG
+272,"Nickeil Alexander-Walker, SG",New Orleans Pelicans,2.96484,SG
+273,"D.J. Wilson, PF",Milwaukee Bucks,2.96112,PF
+274,"Cedi Osman, SF",Cleveland Cavaliers,2.907143,SF
+275,"Donte DiVincenzo, SG",Milwaukee Bucks,2.9058,SG
+276,"Bryn Forbes, SG",San Antonio Spurs,2.875,SG
+277,"Goga Bitadze, C",Indiana Pacers,2.81676,C
+278,"T.J. Leaf, PF",Indiana Pacers,2.81328,PF
+279,"Alex Caruso, SG",Los Angeles Lakers,2.75,SG
+280,"Malik Beasley, SG",Minnesota Timberwolves,2.731714,SG
+281,"Luka Samanic, PF",San Antonio Spurs,2.68992,PF
+282,"Lonnie Walker IV, SG",San Antonio Spurs,2.68992,SG
+283,"John Collins, PF",Atlanta Hawks,2.68656,PF
+284,"Kevin Huerter, SG",Atlanta Hawks,2.63628,SG
+285,"Caris LeVert, SG",Brooklyn Nets,2.625718,SG
+286,"Marko Guduric, SG",Memphis Grizzlies,2.625,SG
+287,"DeAndre' Bembry, SG",Atlanta Hawks,2.603982,SG
+288,"Matisse Thybulle, SG",Philadelphia 76ers,2.58216,SG
+289,"Harry Giles III, C",Sacramento Kings,2.5788,C
+290,"Wesley Matthews, SG",Milwaukee Bucks,2.564753,SG
+291,"Rajon Rondo, PG",Los Angeles Lakers,2.564753,PG
+292,"Nene Hilario, C",Atlanta Hawks,2.564753,C
+293,"Josh Okogie, SF",Minnesota Timberwolves,2.53068,SF
+294,"Vincent Poirier, C",Boston Celtics,2.505793,C
+295,"Rondae Hollis-Jefferson, SF",Toronto Raptors,2.5,SF
+296,"Manu Ginobili, G",San Antonio Spurs,2.5,G
+297,"Brandon Clarke, SF",Memphis Grizzlies,2.47884,SF
+298,"Terrance Ferguson, SF",Oklahoma City Thunder,2.47584,SF
+299,"Emeka Okafor, C",Philadelphia 76ers,2.445085,C
+300,"Kendrick Perkins, C",Cleveland Cavaliers,2.445085,C
+301,"Grayson Allen, SG",Memphis Grizzlies,2.4294,SG
+302,"Grant Williams, PF",Boston Celtics,2.37984,PF
+303,"Jarrett Allen, C",Brooklyn Nets,2.37684,C
+304,"Pascal Siakam, PF",Toronto Raptors,2.351839,PF
+305,"Skal Labissiere, PF",Portland Trail Blazers,2.338847,PF
+306,"Chandler Hutchison, SF",Chicago Bulls,2.33232,SF
+307,"Aaron Holiday, PG",Indiana Pacers,2.3292,PG
+308,"Dejounte Murray, PG",San Antonio Spurs,2.321735,PG
+309,"Damian Jones, C",Atlanta Hawks,2.305057,C
+310,"Darius Bazley, SF",Oklahoma City Thunder,2.2848,SF
+311,"OG Anunoby, SF",Toronto Raptors,2.2818,SF
+312,"Ante Zizic, C",Cleveland Cavaliers,2.2818,C
+313,"Luke Kornet, C",Chicago Bulls,2.25,C
+314,"Brandon Jennings, G",Milwaukee Bucks,2.222803,G
+315,"Ty Jerome, SG",Phoenix Suns,2.19348,SG
+316,"Willie Cauley-Stein, C",Golden State Warriors,2.177483,C
+317,"Anfernee Simons, SG",Portland Trail Blazers,2.14956,SG
+318,"Austin Rivers, PG",Houston Rockets,2.147317,PG
+319,"Nassir Little, SF",Portland Trail Blazers,2.10552,SF
+320,"Moritz Wagner, SF",Washington Wizards,2.06352,SF
+321,"Sean Kilpatrick, G",Chicago Bulls,2.054856,G
+322,"Dylan Windler, SG",Cleveland Cavaliers,2.0358,SG
+323,"Caleb Swanigan, PF",Sacramento Kings,2.03316,PF
+324,"Mike Muscala, PF",Oklahoma City Thunder,2.028594,PF
+325,"Ben McLemore, SF",Houston Rockets,2.028594,SF
+326,"Edmond Sumner, PG",Indiana Pacers,2.0,PG
+327,"Noah Vonleh, PF",Minnesota Timberwolves,2.0,PF
+328,"Torrey Craig, SF",Denver Nuggets,2.0,SF
+329,"Landry Shamet, SG",LA Clippers,1.99512,SG
+330,"Mfiondu Kabengele, PF",LA Clippers,1.977,PF
+331,"Kyle Kuzma, PF",Los Angeles Lakers,1.9746,PF
+332,"Jordan Poole, SG",Golden State Warriors,1.96476,SG
+333,"Tony Bradley, C",Utah Jazz,1.96236,C
+334,"Keldon Johnson, SF",San Antonio Spurs,1.9506,SF
+335,"Derrick White, PG",San Antonio Spurs,1.94808,PG
+336,"Robert Williams III, C",Boston Celtics,1.93752,C
+337,"Jacob Evans, SG",Minnesota Timberwolves,1.92588,SG
+338,"Dzanan Musa, SG",Brooklyn Nets,1.9116,SG
+339,"Omari Spellman, PF",Golden State Warriors,1.8978,PF
+340,"James Ennis III, SF",Philadelphia 76ers,1.882867,SF
+341,"Shabazz Napier, PG",Washington Wizards,1.845301,PG
+342,"Bruno Caboclo, SF",Memphis Grizzlies,1.845301,SF
+343,"DeAndre Liggins, G",Miami Heat,1.795015,G
+344,"Markieff Morris, PF",Los Angeles Lakers,1.75,PF
+345,"Mario Hezonja, SF",Portland Trail Blazers,1.737145,SF
+346,"Cameron Payne, PG",Phoenix Suns,1.737145,PG
+347,"Pat Connaughton, SG",Milwaukee Bucks,1.72305,SG
+348,"Jahlil Okafor, C",New Orleans Pelicans,1.702486,C
+349,"Rodions Kurucs, SF",Brooklyn Nets,1.699236,SF
+350,"Jonah Bolden, PF",Phoenix Suns,1.69845,PF
+351,"Cheick Diallo, PF",Phoenix Suns,1.678854,PF
+352,"Dragan Bender, F",Milwaukee Bucks,1.678854,F
+353,"Willy Hernangomez, C",Charlotte Hornets,1.676735,C
+354,"Julyan Stone, G",Chicago Bulls,1.656092,G
+355,"MarShon Brooks, G",Chicago Bulls,1.656092,G
+356,"Josh Hart, SF",New Orleans Pelicans,1.65516,SF
+357,"Georges Niang, SF",Utah Jazz,1.645357,SF
+358,"Derrick Jones Jr., SF",Miami Heat,1.645357,SF
+359,"Christian Wood, PF",Detroit Pistons,1.645357,PF
+360,"Jordan McRae, SG",Washington Wizards,1.645357,SG
+361,"Treveon Graham, SG",Minnesota Timberwolves,1.645357,SG
+362,"Isaiah Taylor, G",Toronto Raptors,1.620564,G
+363,"Emmanuel Mudiay, PG",Utah Jazz,1.620564,PG
+364,"Nerlens Noel, C",Oklahoma City Thunder,1.620564,C
+365,"Tyler Lydon, F",Sacramento Kings,1.620564,F
+366,"Furkan Korkmaz, SG",Philadelphia 76ers,1.620564,SG
+367,"Glenn Robinson III, SF",Philadelphia 76ers,1.620564,SF
+368,"Raul Neto, PG",Philadelphia 76ers,1.620564,PG
+369,"Kyle O'Quinn, C",Philadelphia 76ers,1.620564,C
+370,"Alec Burks, SG",Philadelphia 76ers,1.620564,SG
+371,"Michael Carter-Williams, PG",Orlando Magic,1.620564,PG
+372,"Wilson Chandler, SF",Brooklyn Nets,1.620564,SF
+373,"Kyle Korver, SG",Milwaukee Bucks,1.620564,SG
+374,"Udonis Haslem, PF",Miami Heat,1.620564,PF
+375,"Jared Dudley, SF",Los Angeles Lakers,1.620564,SF
+376,"Dwight Howard, C",Los Angeles Lakers,1.620564,C
+377,"Isaiah Thomas, PG",Washington Wizards,1.620564,PG
+378,"Patrick Patterson, PF",LA Clippers,1.620564,PF
+379,"JaKarr Sampson, SF",Indiana Pacers,1.620564,SF
+380,"Ryan Anderson, PF",Houston Rockets,1.620564,PF
+381,"Thabo Sefolosha, SF",Houston Rockets,1.620564,SF
+382,"Tyson Chandler, C",Houston Rockets,1.620564,C
+383,"Justin Patton, C",Oklahoma City Thunder,1.620564,C
+384,"Tim Frazier, PG",Detroit Pistons,1.620564,PG
+385,"Joe Johnson, G",Detroit Pistons,1.620564,G
+386,"Gerald Green, SG",Denver Nuggets,1.620564,SG
+387,"Trey Burke, PG",Philadelphia 76ers,1.620564,PG
+388,"J.J. Barea, PG",Dallas Mavericks,1.620564,PG
+389,"Jarell Martin, F",Cleveland Cavaliers,1.620564,F
+390,"Jordan Bell, PF",Memphis Grizzlies,1.620564,PF
+391,"Shaquille Harrison, PG",Chicago Bulls,1.620564,PG
+392,"Vince Carter, G",Atlanta Hawks,1.620564,G
+393,"Dwayne Bacon, SG",Charlotte Hornets,1.61852,SG
+394,"Dillon Brooks, SG",Memphis Grizzlies,1.61852,SG
+395,"Royce O'Neale, SF",Utah Jazz,1.61852,SF
+396,"Abdel Nader, SF",Oklahoma City Thunder,1.61852,SF
+397,"Damyean Dotson, SG",New York Knicks,1.61852,SG
+398,"Sterling Brown, SG",Milwaukee Bucks,1.61852,SG
+399,"Frank Jackson, PG",New Orleans Pelicans,1.61852,PG
+400,"Semi Ojeleye, PF",Boston Celtics,1.61852,PF
+401,"Wes Iwundu, SF",Orlando Magic,1.61842,SF
+402,"Dwight Buycks, G",Detroit Pistons,1.60052,G
+403,"Mitchell Robinson, C",New York Knicks,1.599712,C
+404,"Chris Boucher, PF",Toronto Raptors,1.588231,PF
+405,"Malcolm Miller, SG",Toronto Raptors,1.588231,SG
+406,"Monte Morris, PG",Denver Nuggets,1.588231,PG
+407,"Antonio Blakeney, G",Chicago Bulls,1.588231,G
+408,"Tyrone Wallace, SG",Atlanta Hawks,1.588231,SG
+409,"Malachi Richardson, G",Philadelphia 76ers,1.56936,G
+410,"Georgios Papagiannis, C",Portland Trail Blazers,1.544951,C
+411,"Chinanu Onuaku, C",Portland Trail Blazers,1.544951,C
+412,"Wade Baldwin IV, G",Indiana Pacers,1.544951,G
+413,"Isaiah Whitehead, G",Detroit Pistons,1.544951,G
+414,"Paul Zipser, F",Chicago Bulls,1.544951,F
+415,"Amile Jefferson, PF",Orlando Magic,1.529007,PF
+416,"Omri Casspi, F",Memphis Grizzlies,1.512601,F
+417,"Lorenzo Brown, G",Guangzhou Guangzhou Long-Lions,1.512601,G
+418,"Isaiah Canaan, G",Milwaukee Bucks,1.512601,G
+419,"Dwyane Wade, G",Miami Heat,1.512601,G
+420,"Nigel Williams-Goss, PG",Utah Jazz,1.5,PG
+421,"Isaiah Roby, SF",Oklahoma City Thunder,1.5,SF
+422,"Alfonzo McKinnie, SF",Cleveland Cavaliers,1.5,SF
+423,"Shake Milton, SG",Philadelphia 76ers,1.455697,SG
+424,"Wenyen Gabriel, PF",Sacramento Kings,1.445697,PF
+425,"Theo Pinson, SG",Brooklyn Nets,1.445697,SG
+426,"Thanasis Antetokounmpo, SF",Milwaukee Bucks,1.445697,SF
+427,"Derrick Walton Jr., G",LA Clippers,1.445697,G
+428,"Brad Wanamaker, PG",Boston Celtics,1.445697,PG
+429,"Iman Shumpert, SG",Brooklyn Nets,1.419138,SG
+430,"Devonte' Graham, PG",Charlotte Hornets,1.416852,PG
+431,"De'Anthony Melton, SG",Memphis Grizzlies,1.416852,SG
+432,"Jemerrio Jones, F",Milwaukee Bucks,1.416852,F
+433,"Hamidou Diallo, SG",Oklahoma City Thunder,1.416852,SG
+434,"Deonte Burton, SG",Oklahoma City Thunder,1.416852,SG
+435,"Chimezie Metu, PF",San Antonio Spurs,1.416852,PF
+436,"Gary Trent Jr., SG",Portland Trail Blazers,1.416852,SG
+437,"Elie Okobo, SF",Phoenix Suns,1.416852,SF
+438,"Jevon Carter, PG",Phoenix Suns,1.416852,PG
+439,"Ryan Broekhoff, SG",Dallas Mavericks,1.416852,SG
+440,"Melvin Frazier Jr., SG",Orlando Magic,1.416852,SG
+441,"Jarred Vanderbilt, PF",Minnesota Timberwolves,1.416852,PF
+442,"Duncan Robinson, SG",Miami Heat,1.416852,SG
+443,"Kendrick Nunn, SG",Miami Heat,1.416852,SG
+444,"Alize Johnson, PF",Indiana Pacers,1.416852,PF
+445,"Isaiah Hartenstein, F",Houston Rockets,1.416852,F
+446,"Bruce Brown, SG",Detroit Pistons,1.416852,SG
+447,"Khyri Thomas, SG",Detroit Pistons,1.416852,SG
+448,"Sviatoslav Mykhailiuk, SG",Detroit Pistons,1.416852,SG
+449,"Keita Bates-Diop, SF",Minnesota Timberwolves,1.416852,SF
+450,"Jalen Brunson, PG",Dallas Mavericks,1.416852,PG
+451,"Kenrich Williams, SF",New Orleans Pelicans,1.416852,SF
+452,"Dairis Bertans, G",New Orleans Pelicans,1.416852,G
+453,"Yante Maten, F",Boston Celtics,1.416852,F
+454,"Isaac Bonga, SF",Washington Wizards,1.416842,SF
+455,"Tarik Phillip, G",Washington Wizards,1.416842,G
+456,"Jaylen Nowell, SG",Minnesota Timberwolves,1.4,SG
+457,"Bruno Fernando, C",Atlanta Hawks,1.4,C
+458,"Dakari Johnson, C",Memphis Grizzlies,1.378242,C
+459,"Kyle Collinsworth, G",Utah Jazz,1.378242,G
+460,"Brandon Paul, G",San Antonio Spurs,1.378242,G
+461,"Jaylen Morris, G",Milwaukee Bucks,1.378242,G
+462,"Rodney Purvis, G",Miami Heat,1.378242,G
+463,"David Stockton, G",Los Angeles Lakers,1.378242,G
+464,"Ike Anigbogu, C",Indiana Pacers,1.378242,C
+465,"Zhou Qi, C",Houston Rockets,1.378242,C
+466,"Aaron Jackson, F",Houston Rockets,1.378242,F
+467,"Carmelo Anthony, PF",Portland Trail Blazers,1.364204,PF
+468,"Jabari Bird, G",Atlanta Hawks,1.349464,G
+469,"Ben Moore, F",San Antonio Spurs,1.349383,F
+470,"James Nunnally, G",Shanghai Sharks,1.349383,G
+471,"Kevin Porter Jr., SG",Cleveland Cavaliers,1.29096,SG
+472,"Carsen Edwards, PG",Boston Celtics,1.228026,PG
+473,"Okaro White, F",Washington Wizards,1.187862,F
+474,"Cody Martin, SF",Charlotte Hornets,1.17331,SF
+475,"Gary Payton II, PG",Washington Wizards,1.052909,PG
+476,"Nick Young, G",Denver Nuggets,1.042584,G
+477,"Admiral Schofield, SG",Washington Wizards,1.0,SG
+478,"Terance Mann, SG",LA Clippers,1.0,SG
+479,"Ron Baker, G",Washington Wizards,0.94858,G
+480,"David Nwaba, SG",Brooklyn Nets,0.903111,SG
+481,"Jalen McDaniels, PF",Charlotte Hornets,0.89831,PF
+482,"Caleb Martin, SF",Charlotte Hornets,0.89831,SF
+483,"Dewan Hernandez, C",Toronto Raptors,0.89831,C
+484,"Terence Davis, SG",Toronto Raptors,0.89831,SG
+485,"Matt Thomas, SG",Toronto Raptors,0.89831,SG
+486,"Justin Robinson, PG",Washington Wizards,0.89831,PG
+487,"Miye Oni, SG",Utah Jazz,0.89831,SG
+488,"Stanton Kidd, SF",Utah Jazz,0.89831,SF
+489,"Justin James, SG",Sacramento Kings,0.89831,SG
+490,"Jalen Lecque, PG",Phoenix Suns,0.89831,PG
+491,"Ignas Brazdeikis, SF",New York Knicks,0.89831,SF
+492,"Nicolas Claxton, PF",Brooklyn Nets,0.89831,PF
+493,"Naz Reid, C",Minnesota Timberwolves,0.89831,C
+494,"KZ Okpala, SF",Miami Heat,0.89831,SF
+495,"Talen Horton-Tucker, SG",Los Angeles Lakers,0.89831,SG
+496,"Alen Smailagic, PF",Golden State Warriors,0.89831,PF
+497,"Eric Paschall, PF",Golden State Warriors,0.89831,PF
+498,"Vlatko Cancar, SF",Denver Nuggets,0.89831,SF
+499,"Daniel Gafford, PF",Chicago Bulls,0.89831,PF
+500,"Max Strus, SG",Chicago Bulls,0.89831,SG
+501,"Javonte Green, SG",Boston Celtics,0.89831,SG
+502,"Damion Lee, SG",Golden State Warriors,0.842327,SG
+503,"Isaiah Briscoe, G",Orlando Magic,0.838464,G
+504,"Juwan Morgan, SF",Utah Jazz,0.746054,SF
+505,"Timothe Luwawu-Cabarrot, SG",Brooklyn Nets,0.654469,SG
+506,"Marquese Chriss, C",Golden State Warriors,0.654469,C
+507,"Marvin Williams, PF",Charlotte Hornets,0.604278,PF
+508,"Michael Kidd-Gilchrist, SF",Charlotte Hornets,0.595122,SF
+509,"Rayjon Tucker, SG",Utah Jazz,0.578573,SG
+510,"Chris Clemons, PG",Houston Rockets,0.563347,PG
+511,"Gary Clark, PF",Orlando Magic,0.555409,PF
+512,"Brandon Goodwin, PG",Atlanta Hawks,0.522738,PG
+513,"Reggie Jackson, PG",LA Clippers,0.512721,PG
+514,"DeMarre Carroll, SF",San Antonio Spurs,0.512721,SF
+515,"Anzejs Pasecniks, C",Washington Wizards,0.482144,C
+516,"Chris Silva, PF",Miami Heat,0.466918,PF
+517,"Jeff Green, PF",Utah Jazz,0.439475,PF
+518,"Troy Daniels, SG",Los Angeles Lakers,0.384541,SG
+519,"Dion Waiters, SG",Miami Heat,0.375385,SG
+520,"Norvel Pelle, SF",Philadelphia 76ers,0.350189,SF
+521,"Juan Toscano-Anderson, SF",Golden State Warriors,0.350189,SF
+522,"Ky Bowman, PG",Golden State Warriors,0.350189,PG
+523,"Tyler Zeller, C",San Antonio Spurs,0.245686,C
+524,"Jimmer Fredette, G",Phoenix Suns,0.208509,G
+525,"Jontay Porter, PF",Memphis Grizzlies,0.197933,PF
+526,"Anthony Tolliver, PF",Memphis Grizzlies,0.183115,PF
+527,"Tyler Johnson, SG",Phoenix Suns,0.183115,SG
+528,"Luguentz Dort, SG",Oklahoma City Thunder,0.155647,SG
